@@ -1,0 +1,83 @@
+
+gold1.png
+size: 104,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gold_000000
+  rotate: false
+  xy: 2, 218
+  size: 74, 73
+  orig: 81, 80
+  offset: 4, 4
+  index: -1
+Gold_000001
+  rotate: false
+  xy: 2, 168
+  size: 49, 48
+  orig: 51, 50
+  offset: 1, 1
+  index: -1
+Gold_000003
+  rotate: false
+  xy: 53, 168
+  size: 49, 48
+  orig: 51, 50
+  offset: 1, 1
+  index: -1
+Gold_000005
+  rotate: false
+  xy: 2, 118
+  size: 48, 48
+  orig: 50, 51
+  offset: 1, 1
+  index: -1
+Gold_000007
+  rotate: true
+  xy: 53, 73
+  size: 43, 49
+  orig: 45, 51
+  offset: 1, 1
+  index: -1
+Gold_000011
+  rotate: true
+  xy: 2, 2
+  size: 31, 49
+  orig: 33, 52
+  offset: 1, 1
+  index: -1
+Gold_000013
+  rotate: false
+  xy: 78, 242
+  size: 23, 49
+  orig: 25, 52
+  offset: 1, 1
+  index: -1
+Gold_000021
+  rotate: true
+  xy: 2, 35
+  size: 34, 49
+  orig: 36, 52
+  offset: 1, 1
+  index: -1
+Gold_000023
+  rotate: true
+  xy: 53, 30
+  size: 41, 49
+  orig: 44, 51
+  offset: 1, 1
+  index: -1
+Gold_000025
+  rotate: true
+  xy: 2, 71
+  size: 45, 49
+  orig: 48, 51
+  offset: 2, 1
+  index: -1
+Gold_000027
+  rotate: false
+  xy: 52, 118
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1

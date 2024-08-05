@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "bfbd8630-c046-40fe-9650-bdba39f6bbc4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "Lobby_Achievement_Icon": {
+      "ver": "1.0.4",
+      "uuid": "6611d1c9-741d-41b9-ab0d-bb3f3269d279",
+      "rawTextureUuid": "bfbd8630-c046-40fe-9650-bdba39f6bbc4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 46.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 126,
+      "height": 35,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

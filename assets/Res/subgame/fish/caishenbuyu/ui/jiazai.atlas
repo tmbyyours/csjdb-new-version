@@ -1,0 +1,139 @@
+
+jiazai.png
+size: 2032,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wulong_00000
+  rotate: false
+  xy: 2, 630
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00001
+  rotate: false
+  xy: 2, 408
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00002
+  rotate: true
+  xy: 2, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00003
+  rotate: true
+  xy: 224, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00004
+  rotate: false
+  xy: 408, 630
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00005
+  rotate: false
+  xy: 408, 408
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00006
+  rotate: true
+  xy: 446, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00007
+  rotate: true
+  xy: 668, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00008
+  rotate: false
+  xy: 814, 630
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00009
+  rotate: false
+  xy: 814, 408
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00010
+  rotate: true
+  xy: 890, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00011
+  rotate: true
+  xy: 1112, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00012
+  rotate: false
+  xy: 1220, 630
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00013
+  rotate: false
+  xy: 1220, 408
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00014
+  rotate: true
+  xy: 1334, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00015
+  rotate: true
+  xy: 1556, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00016
+  rotate: false
+  xy: 1626, 630
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00017
+  rotate: false
+  xy: 1626, 408
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1
+wulong_00018
+  rotate: true
+  xy: 1778, 2
+  size: 404, 220
+  orig: 406, 222
+  offset: 1, 1
+  index: -1

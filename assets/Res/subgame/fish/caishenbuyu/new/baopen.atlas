@@ -1,0 +1,160 @@
+
+baopen.png
+size: 1438,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Accumulate_Bar_1
+  rotate: true
+  xy: 1161, 17
+  size: 29, 57
+  orig: 32, 62
+  offset: 1, 1
+  index: -1
+Accumulate_Bar_2
+  rotate: true
+  xy: 818, 4
+  size: 26, 57
+  orig: 28, 59
+  offset: 1, 1
+  index: -1
+DragonLT07_2
+  rotate: false
+  xy: 1010, 266
+  size: 227, 191
+  orig: 263, 216
+  offset: 17, 11
+  index: -1
+Ef_Circle9_Edt_S
+  rotate: false
+  xy: 1212, 123
+  size: 126, 123
+  orig: 130, 129
+  offset: 2, 3
+  index: -1
+Ef_TrailHead9_S
+  rotate: false
+  xy: 951, 2
+  size: 128, 115
+  orig: 130, 129
+  offset: 1, 1
+  index: -1
+Fx_Flare17
+  rotate: false
+  xy: 1082, 136
+  size: 128, 128
+  orig: 130, 130
+  offset: 1, 1
+  index: -1
+J_140_Top
+  rotate: false
+  xy: 1082, 48
+  size: 127, 86
+  orig: 127, 87
+  offset: 0, 1
+  index: -1
+J_40_DownA_S
+  rotate: false
+  xy: 1211, 64
+  size: 124, 57
+  orig: 127, 59
+  offset: 1, 1
+  index: -1
+J_40_DownB_S
+  rotate: false
+  xy: 1081, 2
+  size: 81, 8
+  orig: 83, 10
+  offset: 1, 1
+  index: -1
+J_40_Down_Fu_S
+  rotate: false
+  xy: 1220, 26
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+J_40_TopA_S
+  rotate: true
+  xy: 1340, 120
+  size: 126, 90
+  orig: 130, 94
+  offset: 2, 2
+  index: -1
+J_40_TopB_S
+  rotate: false
+  xy: 734, 2
+  size: 82, 28
+  orig: 84, 30
+  offset: 1, 1
+  index: -1
+J_M_0240_S
+  rotate: false
+  xy: 1081, 12
+  size: 78, 34
+  orig: 80, 36
+  offset: 1, 1
+  index: -1
+TBLT10
+  rotate: true
+  xy: 493, 7
+  size: 175, 239
+  orig: 185, 248
+  offset: 5, 4
+  index: -1
+TBLT15
+  rotate: false
+  xy: 741, 108
+  size: 188, 182
+  orig: 193, 190
+  offset: 3, 2
+  index: -1
+TBLT16
+  rotate: false
+  xy: 1239, 248
+  size: 187, 209
+  orig: 197, 244
+  offset: 5, 6
+  index: -1
+TBLT17
+  rotate: false
+  xy: 741, 292
+  size: 267, 165
+  orig: 285, 180
+  offset: 8, 7
+  index: -1
+TBLT22
+  rotate: false
+  xy: 493, 184
+  size: 246, 273
+  orig: 250, 276
+  offset: 2, 2
+  index: -1
+TBLT27
+  rotate: false
+  xy: 1337, 19
+  size: 99, 99
+  orig: 113, 114
+  offset: 7, 8
+  index: -1
+TBLT28
+  rotate: false
+  xy: 931, 119
+  size: 149, 145
+  orig: 180, 180
+  offset: 21, 10
+  index: -1
+TBLighting01
+  rotate: true
+  xy: 734, 32
+  size: 74, 215
+  orig: 79, 221
+  offset: 2, 3
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 2
+  size: 489, 455
+  orig: 491, 458
+  offset: 1, 2
+  index: -1

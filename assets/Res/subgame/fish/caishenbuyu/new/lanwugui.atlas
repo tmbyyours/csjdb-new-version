@@ -1,0 +1,223 @@
+
+lanwugui.png
+size: 1749,1181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symobl_106_Main_0000
+  rotate: false
+  xy: 1486, 718
+  size: 261, 170
+  orig: 265, 177
+  offset: 2, 3
+  index: -1
+Symobl_106_Main_0001
+  rotate: true
+  xy: 475, 319
+  size: 288, 237
+  orig: 359, 302
+  offset: 49, 27
+  index: -1
+Symobl_106_Main_0002
+  rotate: false
+  xy: 1385, 374
+  size: 260, 170
+  orig: 266, 177
+  offset: 3, 3
+  index: -1
+Symobl_106_Main_0003
+  rotate: false
+  xy: 1486, 546
+  size: 261, 170
+  orig: 266, 177
+  offset: 2, 3
+  index: -1
+Symobl_106_Main_0004
+  rotate: true
+  xy: 269, 318
+  size: 289, 204
+  orig: 315, 291
+  offset: 6, 21
+  index: -1
+Symobl_106_Main_0005
+  rotate: false
+  xy: 319, 911
+  size: 304, 268
+  orig: 363, 314
+  offset: 39, 24
+  index: -1
+Symobl_106_Main_0006
+  rotate: false
+  xy: 2, 609
+  size: 303, 275
+  orig: 363, 316
+  offset: 39, 19
+  index: -1
+Symobl_106_Main_0007
+  rotate: false
+  xy: 925, 927
+  size: 287, 252
+  orig: 361, 311
+  offset: 51, 20
+  index: -1
+Symobl_106_Main_0008
+  rotate: true
+  xy: 549, 626
+  size: 283, 241
+  orig: 357, 307
+  offset: 49, 21
+  index: -1
+Symobl_106_Main_0009
+  rotate: true
+  xy: 1302, 664
+  size: 259, 182
+  orig: 310, 286
+  offset: 48, 20
+  index: -1
+Symobl_106_Main_0010
+  rotate: true
+  xy: 1502, 890
+  size: 289, 244
+  orig: 314, 309
+  offset: 2, 30
+  index: -1
+Symobl_106_Main_0011
+  rotate: false
+  xy: 2, 886
+  size: 315, 293
+  orig: 369, 329
+  offset: 32, 19
+  index: -1
+Symobl_106_Main_0012
+  rotate: true
+  xy: 792, 647
+  size: 277, 252
+  orig: 343, 291
+  offset: 33, 23
+  index: -1
+Symobl_106_Main_0013
+  rotate: true
+  xy: 2, 300
+  size: 307, 265
+  orig: 347, 295
+  offset: 24, 18
+  index: -1
+Symobl_106_Main_0014
+  rotate: false
+  xy: 625, 926
+  size: 298, 253
+  orig: 329, 281
+  offset: 15, 14
+  index: -1
+Symobl_106_Main_0015
+  rotate: true
+  xy: 2, 2
+  size: 296, 247
+  orig: 330, 273
+  offset: 18, 10
+  index: -1
+Symobl_106_Main_0016
+  rotate: true
+  xy: 307, 609
+  size: 275, 240
+  orig: 342, 287
+  offset: 46, 20
+  index: -1
+Symobl_106_Main_0017
+  rotate: false
+  xy: 1214, 925
+  size: 286, 254
+  orig: 317, 302
+  offset: 28, 19
+  index: -1
+Symobl_106_Main_0018
+  rotate: false
+  xy: 955, 31
+  size: 254, 182
+  orig: 259, 232
+  offset: 2, 18
+  index: -1
+Symobl_106_Main_0019
+  rotate: false
+  xy: 1046, 655
+  size: 254, 268
+  orig: 308, 311
+  offset: 21, 15
+  index: -1
+Symobl_106_Main_0020
+  rotate: false
+  xy: 1211, 20
+  size: 254, 179
+  orig: 259, 186
+  offset: 2, 4
+  index: -1
+Symobl_106_Main_0021
+  rotate: false
+  xy: 1467, 20
+  size: 254, 179
+  orig: 259, 229
+  offset: 2, 4
+  index: -1
+Symobl_106_Main_0022
+  rotate: true
+  xy: 714, 354
+  size: 270, 237
+  orig: 312, 268
+  offset: 20, 15
+  index: -1
+Symobl_106_Main_0023
+  rotate: true
+  xy: 778, 96
+  size: 256, 175
+  orig: 261, 182
+  offset: 3, 3
+  index: -1
+Symobl_106_Main_0024
+  rotate: false
+  xy: 1125, 215
+  size: 258, 176
+  orig: 303, 279
+  offset: 3, 27
+  index: -1
+Symobl_106_Main_0025
+  rotate: true
+  xy: 602, 59
+  size: 258, 174
+  orig: 263, 182
+  offset: 2, 3
+  index: -1
+Symobl_106_Main_0026
+  rotate: true
+  xy: 251, 39
+  size: 259, 174
+  orig: 264, 181
+  offset: 2, 3
+  index: -1
+Symobl_106_Main_0027
+  rotate: true
+  xy: 427, 57
+  size: 259, 173
+  orig: 265, 180
+  offset: 3, 3
+  index: -1
+Symobl_106_Main_0028
+  rotate: true
+  xy: 1125, 393
+  size: 260, 258
+  orig: 323, 304
+  offset: 35, 19
+  index: -1
+Symobl_106_Main_0029
+  rotate: false
+  xy: 1385, 201
+  size: 260, 171
+  orig: 265, 178
+  offset: 2, 3
+  index: -1
+Symobl_106_Main_0030
+  rotate: true
+  xy: 953, 384
+  size: 261, 170
+  orig: 266, 177
+  offset: 2, 3
+  index: -1

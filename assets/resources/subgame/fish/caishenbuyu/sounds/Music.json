@@ -1,0 +1,775 @@
+[{
+	"id": 1,
+	"enumName": "SE_Lobby_Background",
+	"enumNote": "lobby背景",
+	"name": "SE_Lobby_Background",
+	"volume": 1,
+	"type": 1,
+	"order": 0,
+	"loop": true
+}, {
+	"id": 201,
+	"enumName": "SE_ButtonPress_01",
+	"enumNote": "按鈕開",
+	"name": "SE_ButtonPress_01",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 202,
+	"enumName": "SE_ButtonPress_02",
+	"enumNote": "按鈕關",
+	"name": "SE_ButtonPress_02",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 203,
+	"enumName": "SE_MenuPress_01",
+	"enumNote": "選單按鈕開",
+	"name": "SE_MenuPress_01",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 204,
+	"enumName": "SE_MenuPress_02",
+	"enumNote": "選單按鈕關",
+	"name": "SE_MenuPress_02",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1001,
+	"enumName": "SE_Game_Background_01",
+	"enumNote": "battle背景",
+	"name": "SE_Game_Background_01",
+	"volume": 0.8,
+	"type": 1,
+	"order": 0,
+	"loop": true
+}, {
+	"id": 1002,
+	"enumName": "SE_Game_Background_02",
+	"enumNote": "battle背景",
+	"name": "SE_Game_Background_02",
+	"volume": 0.8,
+	"type": 1,
+	"order": 0,
+	"loop": true
+}, {
+	"id": 1003,
+	"enumName": "SE_Game_Background_03",
+	"enumNote": "battle背景",
+	"name": "SE_Game_Background_03",
+	"volume": 0.8,
+	"type": 1,
+	"order": 0,
+	"loop": true
+}, {
+	"id": 1201,
+	"enumName": "SE_Game_Bet_01",
+	"enumNote": "加大投注/",
+	"name": "SE_Game_Bet_01",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1202,
+	"enumName": "SE_Game_Bet_02",
+	"enumNote": "減少投注音效 ",
+	"name": "SE_Game_Bet_02",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1203,
+	"enumName": "SE_Game_AutoFire_01",
+	"enumNote": "自動發射按鈕啟動",
+	"name": "SE_Game_AutoFire_01",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1204,
+	"enumName": "SE_Game_AutoFire_02",
+	"enumNote": "自動發射按鈕關閉",
+	"name": "SE_Game_AutoFire_02",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1401,
+	"enumName": "SE_Game_Coin1",
+	"enumNote": "獲得小倍數時噴錢音效",
+	"name": "SE_Game_Coin1",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1402,
+	"enumName": "SE_Game_Coin2",
+	"enumNote": "獲得中倍數時爆錢音效 ",
+	"name": "SE_Game_Coin2",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1403,
+	"enumName": "SE_Game_Coin3",
+	"enumNote": "獲得中倍數時爆錢音效 ",
+	"name": "SE_Game_Coin3",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1404,
+	"enumName": "SE_Game_CoinGet",
+	"enumNote": "獲得金幣時金幣跳錢音效 ",
+	"name": "SE_Game_CoinGet",
+	"volume": 0.3,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 1901,
+	"enumName": "SE_Game_Transition",
+	"enumNote": "浪潮來襲",
+	"name": "SE_Game_Transition",
+	"volume": 0.8,
+	"type": 1,
+	"order": 2,
+	"loop": false
+}, {
+	"id": 1902,
+	"enumName": "SE_Game_Roulette",
+	"enumNote": "獲得中倍數時輪盤音效 ",
+	"name": "SE_Game_Roulette",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 3001,
+	"enumName": "SE_LD_Background",
+	"enumNote": "抽紅包",
+	"name": "SE_LD_Background",
+	"volume": 0.8,
+	"type": 1,
+	"order": 3,
+	"loop": true
+}, {
+	"id": 3901,
+	"enumName": "SE_LD_Hit",
+	"enumNote": "打下紅包",
+	"name": "SE_LD_Hit",
+	"volume": 0.8,
+	"type": 1,
+	"order": 3,
+	"loop": false
+}, {
+	"id": 3902,
+	"enumName": "SE_LD_End",
+	"enumNote": "顯示總分",
+	"name": "SE_LD_End",
+	"volume": 0.8,
+	"type": 1,
+	"order": 3,
+	"loop": false
+}, {
+	"id": 3903,
+	"enumName": "SE_LD_Click",
+	"enumNote": "選紅包",
+	"name": "SE_LD_Click",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 4001,
+	"enumName": "SE_Game_Background_04",
+	"enumNote": "財神音樂",
+	"name": "SE_Game_Background_04",
+	"volume": 0.6,
+	"type": 1,
+	"order": 1,
+	"loop": true
+}, {
+	"id": 5901,
+	"enumName": "SE_Game_LuckyRoll_Hit",
+	"enumNote": "獲得幸運輪轉音效",
+	"name": "SE_Game_LuckyRoll_Hit",
+	"volume": 0.8,
+	"type": 1,
+	"order": 3,
+	"loop": false
+}, {
+	"id": 5902,
+	"enumName": "SE_Game_LuckyRoll_03",
+	"enumNote": "幸運輪轉旋轉中音效",
+	"name": "SE_Game_LuckyRoll_03",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 5903,
+	"enumName": "SE_Game_LuckyRoll_04",
+	"enumNote": "幸運輪轉停下音效",
+	"name": "SE_Game_LuckyRoll_04",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 5904,
+	"enumName": "SE_Game_LuckyRoll_End",
+	"enumNote": "幸運輪轉獲獎音效",
+	"name": "SE_Game_LuckyRoll_End",
+	"volume": 0.8,
+	"type": 1,
+	"order": 3,
+	"loop": false
+}, {
+	"id": 5905,
+	"enumName": "SE_Game_LuckyRoll_02",
+	"enumNote": "幸運輪轉點擊音效",
+	"name": "SE_Game_LuckyRoll_02",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 5906,
+	"enumName": "SE_Game_LuckyRoll_01",
+	"enumNote": "幸運輪石板滑動",
+	"name": "SE_Game_LuckyRoll_01",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 5907,
+	"enumName": "SE_Game_LuckyRoll_Background",
+	"enumNote": "幸運輪轉背景",
+	"name": "SE_Game_LuckyRoll_Background",
+	"volume": 0.8,
+	"type": 1,
+	"order": 3,
+	"loop": true
+}, {
+	"id": 10301,
+	"enumName": "SE_Game_GunChange1",
+	"enumNote": " 一般炮_切換",
+	"name": "SE_Game_GunChange1",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 10303,
+	"enumName": "SE_Game_Fire1",
+	"enumNote": " 一般炮_發射",
+	"name": "SE_Game_Fire1",
+	"volume": 0.4,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 15301,
+	"enumName": "SE_Game_GunChange3_01",
+	"enumNote": "機關炮_切換 ",
+	"name": "SE_Game_GunChange3_01",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 15302,
+	"enumName": "SE_Game_GunChange3_02",
+	"enumNote": "機關炮_等待",
+	"name": "SE_Game_GunChange3_02",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 15303,
+	"enumName": "SE_Game_Fire2",
+	"enumNote": "機關炮_發射",
+	"name": "SE_Game_Fire2",
+	"volume": 0.7,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 16301,
+	"enumName": "SE_Game_GunChange2_01",
+	"enumNote": "鑽頭炮_切換",
+	"name": "SE_Game_GunChange2_01",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 16302,
+	"enumName": "SE_Game_GunChange2_02",
+	"enumNote": "鑽頭炮_等待",
+	"name": "SE_Game_GunChange2_02",
+	"volume": 0.8,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 16312,
+	"enumName": "SE_Game_Fire3_01",
+	"enumNote": "鑽頭炮碰撞",
+	"name": "SE_Game_Fire3_01",
+	"volume": 0.7,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 16313,
+	"enumName": "SE_Game_Fire3_03",
+	"enumNote": "鑽頭炮爆炸",
+	"name": "SE_Game_Fire3_03",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 16314,
+	"enumName": "SE_Game_Fire3_02",
+	"enumNote": "鑽頭炮彈跳",
+	"name": "SE_Game_Fire3_02",
+	"volume": 0.7,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21994861,
+	"enumName": "SE_Narration_LuckyRoll_cn",
+	"enumNote": "幸運輪轉口白男",
+	"name": "SE_Narration_LuckyRoll_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21993871,
+	"enumName": "SE_Narration_CaiShenFaFaFa_01_cn",
+	"enumNote": "財神發發發口白男",
+	"name": "SE_Narration_CaiShenFaFaFa_01_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 41990811,
+	"enumName": "SE_Narration_LowSymbol_M_01",
+	"enumNote": "8~15x口白",
+	"name": "SE_Narration_LowSymbol_M_01",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 41990812,
+	"enumName": "SE_Narration_LowSymbol_M_02",
+	"enumNote": "8~16x口白",
+	"name": "SE_Narration_LowSymbol_M_02",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 41990813,
+	"enumName": "SE_Narration_LowSymbol_M_03",
+	"enumNote": "8~17x口白",
+	"name": "SE_Narration_LowSymbol_M_03",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 41990814,
+	"enumName": "SE_Narration_LowSymbol_M_04",
+	"enumNote": "8~18x口白",
+	"name": "SE_Narration_LowSymbol_M_04",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 42990811,
+	"enumName": "SE_Narration_LowSymbol_F_01",
+	"enumNote": "8~19x口白",
+	"name": "SE_Narration_LowSymbol_F_01",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 42990812,
+	"enumName": "SE_Narration_LowSymbol_F_02",
+	"enumNote": "8~20x口白",
+	"name": "SE_Narration_LowSymbol_F_02",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 42990813,
+	"enumName": "SE_Narration_LowSymbol_F_03",
+	"enumNote": "8~21x口白",
+	"name": "SE_Narration_LowSymbol_F_03",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 42990814,
+	"enumName": "SE_Narration_LowSymbol_F_04",
+	"enumNote": "8~22x口白",
+	"name": "SE_Narration_LowSymbol_F_04",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 42990815,
+	"enumName": "SE_Narration_LowSymbol_F_05",
+	"enumNote": "8~23x口白",
+	"name": "SE_Narration_LowSymbol_F_05",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21990821,
+	"enumName": "SE_Narration_MediumSymbol_M_02_cn",
+	"enumNote": "16x~50xx口白男",
+	"name": "SE_Narration_MediumSymbol_M_02_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21990822,
+	"enumName": "SE_Narration_MediumSymbol_M_05_cn",
+	"enumNote": "16x~50xx口白男",
+	"name": "SE_Narration_MediumSymbol_M_05_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21990823,
+	"enumName": "SE_Narration_MediumSymbol_M_07_cn",
+	"enumNote": "16x~50xx口白男",
+	"name": "SE_Narration_MediumSymbol_M_07_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21990824,
+	"enumName": "SE_Narration_MediumSymbol_M_08_cn",
+	"enumNote": "16x~50xx口白男",
+	"name": "SE_Narration_MediumSymbol_M_08_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 22990821,
+	"enumName": "SE_Narration_MediumSymbol_F_05_cn",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_05_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 22990822,
+	"enumName": "SE_Narration_MediumSymbol_F_06_cn",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_06_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 22990823,
+	"enumName": "SE_Narration_MediumSymbol_F_11_cn",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_11_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 22990824,
+	"enumName": "SE_Narration_MediumSymbol_F_12_cn",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_12_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 22990825,
+	"enumName": "SE_Narration_MediumSymbol_F_13_cn",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_13_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 22990826,
+	"enumName": "SE_Narration_MediumSymbol_F_15_cn",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_15_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31990821,
+	"enumName": "SE_Narration_MediumSymbol_M_01_en",
+	"enumNote": "16x~50xx口白男",
+	"name": "SE_Narration_MediumSymbol_M_01_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31990822,
+	"enumName": "SE_Narration_MediumSymbol_M_03_en",
+	"enumNote": "16x~50xx口白男",
+	"name": "SE_Narration_MediumSymbol_M_03_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31990823,
+	"enumName": "SE_Narration_MediumSymbol_M_06_en",
+	"enumNote": "16x~50xx口白男",
+	"name": "SE_Narration_MediumSymbol_M_06_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 32990821,
+	"enumName": "SE_Narration_MediumSymbol_F_08_en",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_08_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 32990822,
+	"enumName": "SE_Narration_MediumSymbol_F_09_en",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_09_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 32990823,
+	"enumName": "SE_Narration_MediumSymbol_F_10_en",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_10_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 32990824,
+	"enumName": "SE_Narration_MediumSymbol_F_11_en",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_11_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 32990825,
+	"enumName": "SE_Narration_MediumSymbol_F_12_en",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_12_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 32990826,
+	"enumName": "SE_Narration_MediumSymbol_F_13_en",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_13_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 32990827,
+	"enumName": "SE_Narration_MediumSymbol_F_14_en",
+	"enumNote": "16x~50xx口白女",
+	"name": "SE_Narration_MediumSymbol_F_14_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21990831,
+	"enumName": "SE_Narration_HighSymbol_01_cn",
+	"enumNote": "51x~150x口白男",
+	"name": "SE_Narration_HighSymbol_01_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21990832,
+	"enumName": "SE_Narration_MediumSymbol_M_03_cn",
+	"enumNote": "51x~150x口白男",
+	"name": "SE_Narration_MediumSymbol_M_03_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 22990831,
+	"enumName": "SE_Narration_MediumSymbol_F_14_cn",
+	"enumNote": "51x~150x口白女",
+	"name": "SE_Narration_MediumSymbol_F_14_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31990831,
+	"enumName": "SE_Narration_CaiShen_01_en",
+	"enumNote": "51x~150x口白男",
+	"name": "SE_Narration_CaiShen_01_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31990832,
+	"enumName": "SE_Narration_HighSymbol_01_en",
+	"enumNote": "51x~150x口白男",
+	"name": "SE_Narration_HighSymbol_01_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21994881,
+	"enumName": "SE_Narration_CaiShen_01_cn",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_01_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21994882,
+	"enumName": "SE_Narration_CaiShen_02_cn",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_02_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21994883,
+	"enumName": "SE_Narration_CaiShen_03_cn",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_03_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21994884,
+	"enumName": "SE_Narration_CaiShen_04_cn",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_04_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21994885,
+	"enumName": "SE_Narration_CaiShen_05_cn",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_05_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 21994886,
+	"enumName": "SE_Narration_CaiShen_06_cn",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_06_cn",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31994881,
+	"enumName": "SE_Narration_CaiShen_02_en",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_02_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31994882,
+	"enumName": "SE_Narration_CaiShen_03_en",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_03_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31994883,
+	"enumName": "SE_Narration_CaiShen_04_en",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_04_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}, {
+	"id": 31994884,
+	"enumName": "SE_Narration_CaiShen_05_en",
+	"enumNote": "擊中財神口白男",
+	"name": "SE_Narration_CaiShen_05_en",
+	"volume": 1,
+	"type": 2,
+	"order": 0,
+	"loop": false
+}]

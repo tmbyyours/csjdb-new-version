@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a335058f-13bf-44d1-b8c1-0c02f37ffbe4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 324,
+  "height": 90,
+  "platformSettings": {},
+  "subMetas": {
+    "GP_Lobby_BG_04_png": {
+      "ver": "1.0.4",
+      "uuid": "1df68e01-5d8a-4b7a-9fd3-496e10783429",
+      "rawTextureUuid": "a335058f-13bf-44d1-b8c1-0c02f37ffbe4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 321,
+      "height": 86,
+      "rawWidth": 324,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

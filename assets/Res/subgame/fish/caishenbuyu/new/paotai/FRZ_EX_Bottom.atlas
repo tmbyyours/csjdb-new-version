@@ -1,0 +1,216 @@
+
+FRZ_EX_Bottom.png
+size: 245,1110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FRZ_1_Arm
+  rotate: false
+  xy: 115, 4
+  size: 45, 53
+  orig: 47, 55
+  offset: 1, 1
+  index: -1
+FRZ_1_Arm2
+  rotate: true
+  xy: 187, 51
+  size: 45, 53
+  orig: 47, 55
+  offset: 1, 1
+  index: -1
+FRZ_1_Barrel_00000
+  rotate: false
+  xy: 147, 63
+  size: 38, 33
+  orig: 40, 35
+  offset: 1, 1
+  index: -1
+FRZ_1_Barrel_00002
+  rotate: true
+  xy: 162, 11
+  size: 38, 33
+  orig: 40, 35
+  offset: 1, 1
+  index: -1
+FRZ_1_Eye
+  rotate: false
+  xy: 148, 206
+  size: 67, 33
+  orig: 73, 38
+  offset: 3, 2
+  index: -1
+FRZ_1_Head_A
+  rotate: false
+  xy: 163, 857
+  size: 78, 54
+  orig: 80, 56
+  offset: 1, 1
+  index: -1
+FRZ_1_Head_B
+  rotate: false
+  xy: 148, 241
+  size: 73, 67
+  orig: 75, 69
+  offset: 1, 1
+  index: -1
+FRZ_1_Lightning_FX_00000
+  rotate: false
+  xy: 163, 913
+  size: 79, 29
+  orig: 82, 32
+  offset: 1, 1
+  index: -1
+FRZ_1_Lightning_FX_00002
+  rotate: false
+  xy: 156, 460
+  size: 76, 32
+  orig: 79, 36
+  offset: 2, 2
+  index: -1
+FRZ_1_Lightning_FX_00003
+  rotate: false
+  xy: 163, 794
+  size: 77, 29
+  orig: 79, 33
+  offset: 2, 2
+  index: -1
+FRZ_1_Lightning_FX_00004
+  rotate: false
+  xy: 163, 764
+  size: 77, 28
+  orig: 80, 33
+  offset: 2, 2
+  index: -1
+FRZ_1_Lightning_FX_00005
+  rotate: false
+  xy: 163, 825
+  size: 77, 30
+  orig: 80, 33
+  offset: 2, 2
+  index: -1
+FRZ_1_Lightning_FX_00006
+  rotate: false
+  xy: 148, 310
+  size: 75, 28
+  orig: 80, 32
+  offset: 3, 2
+  index: -1
+FRZ_1_Muzzle
+  rotate: true
+  xy: 214, 173
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+FRZ_1_Paw
+  rotate: true
+  xy: 173, 987
+  size: 41, 70
+  orig: 43, 72
+  offset: 1, 1
+  index: -1
+FRZ_1_Paw2
+  rotate: true
+  xy: 173, 944
+  size: 41, 70
+  orig: 43, 72
+  offset: 1, 1
+  index: -1
+Halo_FX
+  rotate: false
+  xy: 59, 3
+  size: 54, 54
+  orig: 58, 58
+  offset: 2, 2
+  index: -1
+Light_Ball
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 59, 58
+  offset: 2, 2
+  index: -1
+Lightning_FX_00000
+  rotate: true
+  xy: 2, 790
+  size: 158, 159
+  orig: 169, 169
+  offset: 6, 3
+  index: -1
+Lightning_FX_00004
+  rotate: true
+  xy: 2, 639
+  size: 149, 157
+  orig: 162, 169
+  offset: 8, 4
+  index: -1
+Lightning_FX_00006
+  rotate: false
+  xy: 2, 59
+  size: 143, 142
+  orig: 152, 149
+  offset: 4, 4
+  index: -1
+Lightning_FX_00010
+  rotate: true
+  xy: 2, 203
+  size: 138, 144
+  orig: 146, 153
+  offset: 4, 5
+  index: -1
+Lightning_FX_00012
+  rotate: true
+  xy: 2, 343
+  size: 143, 146
+  orig: 151, 155
+  offset: 4, 6
+  index: -1
+Lightning_FX_00014
+  rotate: false
+  xy: 148, 98
+  size: 64, 106
+  orig: 71, 114
+  offset: 3, 4
+  index: -1
+Lightning_FX_00016
+  rotate: true
+  xy: 2, 488
+  size: 149, 152
+  orig: 157, 161
+  offset: 4, 6
+  index: -1
+Lightning_FX_00018
+  rotate: false
+  xy: 150, 340
+  size: 88, 118
+  orig: 96, 126
+  offset: 4, 3
+  index: -1
+Lightning_FX_00020
+  rotate: false
+  xy: 2, 950
+  size: 169, 158
+  orig: 178, 167
+  offset: 5, 4
+  index: -1
+Lightning_FX_00022
+  rotate: false
+  xy: 156, 494
+  size: 86, 141
+  orig: 94, 149
+  offset: 4, 4
+  index: -1
+Lightning_FX_00024
+  rotate: false
+  xy: 161, 637
+  size: 82, 125
+  orig: 90, 131
+  offset: 3, 3
+  index: -1
+dz
+  rotate: true
+  xy: 173, 1030
+  size: 78, 70
+  orig: 80, 72
+  offset: 1, 1
+  index: -1

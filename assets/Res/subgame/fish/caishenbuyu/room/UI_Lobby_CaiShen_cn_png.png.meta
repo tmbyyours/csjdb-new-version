@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f653c9c4-d46e-4911-b034-d04f37021f6f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 176,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "UI_Lobby_CaiShen_cn_png": {
+      "ver": "1.0.4",
+      "uuid": "b0960f93-85b4-4c7f-ae81-2bdd0658b4b2",
+      "rawTextureUuid": "f653c9c4-d46e-4911-b034-d04f37021f6f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 174,
+      "height": 60,
+      "rawWidth": 176,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

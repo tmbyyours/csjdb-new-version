@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "58848d82-386a-4e00-a915-0625d98ce8e6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 177,
+  "height": 45,
+  "platformSettings": {},
+  "subMetas": {
+    "GodFafa_yuanbao": {
+      "ver": "1.0.4",
+      "uuid": "bf411d2e-a090-4b05-92db-11ddcd6e200b",
+      "rawTextureUuid": "58848d82-386a-4e00-a915-0625d98ce8e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 177,
+      "height": 45,
+      "rawWidth": 177,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

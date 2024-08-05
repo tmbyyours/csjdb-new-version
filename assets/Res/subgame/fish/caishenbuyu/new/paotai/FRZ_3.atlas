@@ -1,0 +1,20 @@
+
+FRZ_3.png
+size: 168,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FRZ_3_Bottom
+  rotate: true
+  xy: 116, 6
+  size: 102, 50
+  orig: 104, 52
+  offset: 1, 1
+  index: -1
+FRZ_3_dizuo
+  rotate: true
+  xy: 2, 2
+  size: 106, 112
+  orig: 108, 114
+  offset: 1, 1
+  index: -1

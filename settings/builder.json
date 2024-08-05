@@ -1,0 +1,50 @@
+{
+  "excludeScenes": [
+    "b2b79322-39af-4c47-9267-5c9675e49776",
+    "536ed171-1bf8-4114-87df-f57f486a3d89",
+    "04729aea-5053-4f85-829d-5a510cb96ff2",
+    "351838e7-478d-40d3-9a79-750c63a55f05",
+    "9fd1c407-4c82-4148-b363-8dc9f16c334c"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "startScene": "a11241e3-cd26-4508-aa3d-94a0eb336720",
+  "title": "client",
+  "webOrientation": "landscape",
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "encryptJs": true,
+  "xxteaKey": "8fca1468-e1b6-41",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "org.cccwnet.client"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "http://192.168.110.240:7456/preview-android-instant/",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "includeAnySDK": false
+}

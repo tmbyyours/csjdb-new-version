@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SS_Fire_Bubble",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5a73f6d2-eb5a-48a4-94ea-7e0565950609"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "6aaf0409-462e-473e-9cf7-16f32e1d69da"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "7e22a93a-4d7c-40ec-8fb8-4c760ca2be6f"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "ef9c3ab4-a349-4c43-b7fb-ca43cd89f431"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "326ac2f8-dfdc-4496-9034-55ee7feeb771"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f18b70da-c2fc-430f-9edd-e223e8c18a0e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.25,
+      "func": "removeSelf",
+      "params": []
+    }
+  ]
+}

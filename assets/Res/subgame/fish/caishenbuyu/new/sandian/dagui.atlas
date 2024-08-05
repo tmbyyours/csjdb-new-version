@@ -1,0 +1,692 @@
+
+dagui.png
+size: 2228,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BT_Body
+  rotate: true
+  xy: 631, 364
+  size: 167, 132
+  orig: 169, 134
+  offset: 1, 1
+  index: -1
+BT_Hand
+  rotate: true
+  xy: 1334, 4
+  size: 58, 57
+  orig: 60, 59
+  offset: 1, 1
+  index: -1
+BT_Head
+  rotate: false
+  xy: 1491, 5
+  size: 71, 62
+  orig: 73, 64
+  offset: 1, 1
+  index: -1
+BT_Leg
+  rotate: true
+  xy: 1133, 5
+  size: 51, 57
+  orig: 53, 59
+  offset: 1, 1
+  index: -1
+BT_Tail
+  rotate: true
+  xy: 2111, 290
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+Fightlighting010000
+  rotate: false
+  xy: 2017, 421
+  size: 29, 38
+  orig: 35, 44
+  offset: 2, 2
+  index: -1
+Fightlighting010003
+  rotate: true
+  xy: 1192, 7
+  size: 49, 78
+  orig: 55, 87
+  offset: 2, 3
+  index: -1
+Fightlighting010004
+  rotate: true
+  xy: 724, 2
+  size: 53, 149
+  orig: 60, 159
+  offset: 3, 5
+  index: -1
+Fightlighting010006
+  rotate: false
+  xy: 928, 376
+  size: 55, 156
+  orig: 60, 166
+  offset: 3, 3
+  index: -1
+Fightlighting010008
+  rotate: false
+  xy: 1035, 377
+  size: 55, 155
+  orig: 60, 166
+  offset: 3, 4
+  index: -1
+Fightlighting010010
+  rotate: false
+  xy: 866, 376
+  size: 60, 156
+  orig: 66, 166
+  offset: 2, 2
+  index: -1
+Fightlighting010011
+  rotate: false
+  xy: 765, 373
+  size: 50, 158
+  orig: 56, 167
+  offset: 2, 3
+  index: -1
+Fightlighting010012
+  rotate: true
+  xy: 564, 2
+  size: 53, 158
+  orig: 58, 167
+  offset: 2, 3
+  index: -1
+Fightlighting010013
+  rotate: false
+  xy: 817, 374
+  size: 47, 158
+  orig: 52, 166
+  offset: 2, 2
+  index: -1
+Fightlighting010014
+  rotate: false
+  xy: 985, 376
+  size: 48, 156
+  orig: 52, 167
+  offset: 2, 3
+  index: -1
+Fightlighting02_0000
+  rotate: true
+  xy: 419, 3
+  size: 23, 26
+  orig: 34, 36
+  offset: 5, 6
+  index: -1
+Fightlighting02_0006
+  rotate: false
+  xy: 1974, 201
+  size: 36, 83
+  orig: 45, 90
+  offset: 4, 4
+  index: -1
+Fightlighting02_0007
+  rotate: false
+  xy: 575, 369
+  size: 54, 137
+  orig: 66, 147
+  offset: 5, 6
+  index: -1
+Fightlighting02_0008
+  rotate: false
+  xy: 512, 364
+  size: 61, 142
+  orig: 72, 151
+  offset: 5, 4
+  index: -1
+Fightlighting02_0010
+  rotate: false
+  xy: 335, 359
+  size: 57, 144
+  orig: 69, 153
+  offset: 3, 5
+  index: -1
+Fightlighting02_0012
+  rotate: false
+  xy: 274, 358
+  size: 59, 145
+  orig: 71, 152
+  offset: 4, 4
+  index: -1
+Fightlighting02_0014
+  rotate: false
+  xy: 394, 361
+  size: 57, 144
+  orig: 67, 152
+  offset: 4, 4
+  index: -1
+Fightlighting02_0016
+  rotate: false
+  xy: 453, 361
+  size: 57, 144
+  orig: 68, 152
+  offset: 4, 5
+  index: -1
+Orange_Mask
+  rotate: true
+  xy: 2, 358
+  size: 480, 270
+  orig: 482, 272
+  offset: 1, 1
+  index: -1
+Outsidelighting0001
+  rotate: false
+  xy: 2086, 206
+  size: 71, 78
+  orig: 119, 91
+  offset: 3, 7
+  index: -1
+Outsidelighting0002
+  rotate: true
+  xy: 2017, 461
+  size: 83, 93
+  orig: 119, 110
+  offset: 4, 11
+  index: -1
+Outsidelighting0003
+  rotate: true
+  xy: 1454, 69
+  size: 125, 109
+  orig: 136, 120
+  offset: 4, 6
+  index: -1
+Outsidelighting0004
+  rotate: true
+  xy: 1204, 60
+  size: 132, 118
+  orig: 140, 124
+  offset: 4, 3
+  index: -1
+Outsidelighting0005
+  rotate: true
+  xy: 1216, 396
+  size: 136, 121
+  orig: 143, 128
+  offset: 4, 3
+  index: -1
+Outsidelighting0006
+  rotate: true
+  xy: 1092, 396
+  size: 136, 122
+  orig: 143, 129
+  offset: 4, 3
+  index: -1
+Outsidelighting0007
+  rotate: false
+  xy: 1565, 74
+  size: 135, 120
+  orig: 140, 127
+  offset: 3, 4
+  index: -1
+Outsidelighting0008
+  rotate: false
+  xy: 1974, 286
+  size: 135, 119
+  orig: 140, 125
+  offset: 3, 2
+  index: -1
+Outsidelighting0009
+  rotate: true
+  xy: 1895, 407
+  size: 135, 120
+  orig: 138, 128
+  offset: 1, 5
+  index: -1
+Outsidelighting0010
+  rotate: false
+  xy: 1980, 546
+  size: 135, 93
+  orig: 139, 111
+  offset: 2, 5
+  index: -1
+Outsidelighting0011
+  rotate: true
+  xy: 1451, 398
+  size: 136, 109
+  orig: 142, 122
+  offset: 3, 4
+  index: -1
+Outsidelighting0012
+  rotate: true
+  xy: 1562, 399
+  size: 136, 109
+  orig: 142, 122
+  offset: 3, 4
+  index: -1
+Outsidelighting0013
+  rotate: true
+  xy: 2117, 703
+  size: 135, 109
+  orig: 140, 122
+  offset: 3, 4
+  index: -1
+Outsidelighting0014
+  rotate: true
+  xy: 1339, 396
+  size: 136, 110
+  orig: 142, 123
+  offset: 3, 4
+  index: -1
+Outsidelighting0015
+  rotate: true
+  xy: 1673, 399
+  size: 136, 109
+  orig: 142, 119
+  offset: 3, 4
+  index: -1
+Outsidelighting0016
+  rotate: true
+  xy: 1784, 405
+  size: 136, 109
+  orig: 142, 119
+  offset: 3, 4
+  index: -1
+RingIn60_0000
+  rotate: false
+  xy: 979, 57
+  size: 102, 94
+  orig: 105, 97
+  offset: 2, 1
+  index: -1
+RingIn60_0001
+  rotate: true
+  xy: 1024, 534
+  size: 101, 96
+  orig: 104, 98
+  offset: 2, 1
+  index: -1
+RingIn60_0002
+  rotate: true
+  xy: 1122, 534
+  size: 101, 96
+  orig: 104, 98
+  offset: 1, 1
+  index: -1
+RingIn60_0003
+  rotate: true
+  xy: 1220, 534
+  size: 101, 96
+  orig: 103, 98
+  offset: 1, 1
+  index: -1
+RingIn60_0004
+  rotate: true
+  xy: 1482, 537
+  size: 100, 96
+  orig: 103, 98
+  offset: 1, 1
+  index: -1
+RingIn60_0005
+  rotate: true
+  xy: 1580, 537
+  size: 100, 95
+  orig: 103, 98
+  offset: 1, 1
+  index: -1
+RingIn60_0006
+  rotate: true
+  xy: 1318, 534
+  size: 103, 96
+  orig: 105, 98
+  offset: 1, 1
+  index: -1
+RingIn60_0007
+  rotate: false
+  xy: 1768, 543
+  size: 104, 96
+  orig: 106, 98
+  offset: 1, 1
+  index: -1
+RingIn60_0008
+  rotate: false
+  xy: 1874, 544
+  size: 104, 95
+  orig: 106, 98
+  offset: 1, 2
+  index: -1
+RingIn60_0009
+  rotate: false
+  xy: 873, 57
+  size: 104, 94
+  orig: 106, 96
+  offset: 1, 1
+  index: -1
+T02P_001
+  rotate: false
+  xy: 1578, 200
+  size: 196, 197
+  orig: 206, 203
+  offset: 3, 3
+  index: -1
+T02P_002
+  rotate: true
+  xy: 980, 173
+  size: 201, 199
+  orig: 206, 203
+  offset: 1, 1
+  index: -1
+T02P_003
+  rotate: true
+  xy: 1181, 194
+  size: 200, 197
+  orig: 206, 203
+  offset: 2, 3
+  index: -1
+T02P_004
+  rotate: true
+  xy: 1423, 639
+  size: 199, 197
+  orig: 206, 203
+  offset: 3, 3
+  index: -1
+T02P_005
+  rotate: true
+  xy: 1223, 639
+  size: 199, 198
+  orig: 206, 203
+  offset: 3, 3
+  index: -1
+T02P_006
+  rotate: true
+  xy: 1024, 637
+  size: 201, 197
+  orig: 206, 203
+  offset: 2, 3
+  index: -1
+T02_001
+  rotate: true
+  xy: 1702, 2
+  size: 196, 197
+  orig: 206, 203
+  offset: 3, 3
+  index: -1
+T02_002
+  rotate: false
+  xy: 1622, 641
+  size: 197, 197
+  orig: 201, 201
+  offset: 1, 1
+  index: -1
+T02_003
+  rotate: false
+  xy: 1776, 200
+  size: 196, 197
+  orig: 201, 202
+  offset: 2, 2
+  index: -1
+T02_004
+  rotate: true
+  xy: 1901, 2
+  size: 196, 197
+  orig: 202, 202
+  offset: 3, 2
+  index: -1
+T02_005
+  rotate: false
+  xy: 1380, 196
+  size: 196, 198
+  orig: 202, 202
+  offset: 3, 2
+  index: -1
+T02_006
+  rotate: false
+  xy: 1821, 641
+  size: 196, 197
+  orig: 200, 202
+  offset: 2, 2
+  index: -1
+boomLT01
+  rotate: false
+  xy: 2100, 85
+  size: 120, 119
+  orig: 126, 124
+  offset: 1, 3
+  index: -1
+boomLT02
+  rotate: false
+  xy: 1324, 64
+  size: 128, 128
+  orig: 130, 130
+  offset: 1, 1
+  index: -1
+boomLT03
+  rotate: true
+  xy: 2112, 353
+  size: 118, 113
+  orig: 131, 125
+  offset: 6, 10
+  index: -1
+bouble01
+  rotate: true
+  xy: 2, 15
+  size: 341, 324
+  orig: 343, 326
+  offset: 1, 1
+  index: -1
+outlighting01_01
+  rotate: true
+  xy: 1393, 4
+  size: 58, 32
+  orig: 64, 36
+  offset: 3, 2
+  index: -1
+outlighting01_04
+  rotate: false
+  xy: 922, 4
+  size: 209, 51
+  orig: 220, 57
+  offset: 8, 3
+  index: -1
+outlighting01_06
+  rotate: true
+  xy: 506, 29
+  size: 330, 56
+  orig: 334, 62
+  offset: 1, 3
+  index: -1
+outlighting01_07
+  rotate: true
+  xy: 558, 508
+  size: 330, 56
+  orig: 334, 62
+  offset: 1, 3
+  index: -1
+outlighting01_09
+  rotate: true
+  xy: 474, 508
+  size: 330, 82
+  orig: 335, 86
+  offset: 1, 2
+  index: -1
+outlighting01_11
+  rotate: true
+  xy: 419, 28
+  size: 331, 85
+  orig: 335, 90
+  offset: 1, 3
+  index: -1
+outlighting01_12
+  rotate: true
+  xy: 366, 507
+  size: 331, 106
+  orig: 336, 112
+  offset: 1, 4
+  index: -1
+outlighting01_14
+  rotate: true
+  xy: 274, 505
+  size: 333, 90
+  orig: 336, 96
+  offset: 1, 4
+  index: -1
+outlighting01_16
+  rotate: true
+  xy: 328, 24
+  size: 332, 89
+  orig: 337, 94
+  offset: 1, 3
+  index: -1
+outlighting02_00
+  rotate: false
+  xy: 1272, 11
+  size: 60, 47
+  orig: 69, 55
+  offset: 5, 4
+  index: -1
+outlighting02_04
+  rotate: true
+  xy: 873, 153
+  size: 221, 105
+  orig: 229, 112
+  offset: 4, 4
+  index: -1
+outlighting02_05
+  rotate: true
+  xy: 751, 58
+  size: 304, 120
+  orig: 310, 126
+  offset: 5, 3
+  index: -1
+outlighting02_07
+  rotate: true
+  xy: 783, 534
+  size: 304, 120
+  orig: 310, 126
+  offset: 5, 3
+  index: -1
+outlighting02_08
+  rotate: true
+  xy: 905, 534
+  size: 304, 117
+  orig: 310, 121
+  offset: 5, 2
+  index: -1
+outlighting02_11
+  rotate: true
+  xy: 564, 57
+  size: 305, 113
+  orig: 310, 118
+  offset: 4, 2
+  index: -1
+outlighting02_12
+  rotate: true
+  xy: 679, 57
+  size: 305, 70
+  orig: 310, 77
+  offset: 4, 3
+  index: -1
+outlighting02_14
+  rotate: true
+  xy: 702, 533
+  size: 305, 79
+  orig: 310, 86
+  offset: 4, 3
+  index: -1
+outlighting02_16
+  rotate: true
+  xy: 616, 533
+  size: 305, 84
+  orig: 310, 89
+  offset: 4, 3
+  index: -1
+turborFX_0004
+  rotate: true
+  xy: 875, 2
+  size: 53, 45
+  orig: 61, 52
+  offset: 4, 4
+  index: -1
+turborFX_0005
+  rotate: true
+  xy: 1427, 5
+  size: 57, 62
+  orig: 64, 69
+  offset: 3, 3
+  index: -1
+turborFX_0006
+  rotate: false
+  xy: 1564, 5
+  size: 57, 62
+  orig: 64, 69
+  offset: 3, 3
+  index: -1
+turborFX_0007
+  rotate: true
+  xy: 2019, 645
+  size: 72, 78
+  orig: 77, 83
+  offset: 3, 2
+  index: -1
+turborFX_0008
+  rotate: false
+  xy: 2012, 206
+  size: 72, 78
+  orig: 77, 83
+  offset: 3, 2
+  index: -1
+turborFX_0009
+  rotate: true
+  xy: 1677, 541
+  size: 98, 89
+  orig: 103, 94
+  offset: 3, 2
+  index: -1
+turborFX_0010
+  rotate: true
+  xy: 1677, 541
+  size: 98, 89
+  orig: 103, 94
+  offset: 3, 2
+  index: -1
+turborFX_0011
+  rotate: true
+  xy: 2117, 588
+  size: 113, 106
+  orig: 117, 111
+  offset: 2, 2
+  index: -1
+turborFX_0012
+  rotate: true
+  xy: 2117, 473
+  size: 113, 106
+  orig: 117, 111
+  offset: 2, 2
+  index: -1
+turborFX_0013
+  rotate: false
+  xy: 1083, 58
+  size: 119, 113
+  orig: 124, 119
+  offset: 2, 3
+  index: -1
+turborFX_0014
+  rotate: false
+  xy: 1083, 58
+  size: 119, 113
+  orig: 124, 119
+  offset: 2, 3
+  index: -1
+turborFX_0015
+  rotate: true
+  xy: 2019, 719
+  size: 119, 93
+  orig: 123, 97
+  offset: 2, 2
+  index: -1
+turborFX_0016
+  rotate: true
+  xy: 2019, 719
+  size: 119, 93
+  orig: 123, 97
+  offset: 2, 2
+  index: -1
+turborFX_0017
+  rotate: true
+  xy: 1416, 536
+  size: 101, 64
+  orig: 106, 69
+  offset: 2, 2
+  index: -1

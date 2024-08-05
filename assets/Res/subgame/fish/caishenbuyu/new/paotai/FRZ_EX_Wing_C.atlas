@@ -1,0 +1,587 @@
+
+FRZ_EX_Wing_C.png
+size: 2120,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Fire_FX_00000
+  rotate: false
+  xy: 1719, 221
+  size: 49, 90
+  orig: 54, 92
+  offset: 2, 1
+  index: -1
+Blue_Fire_FX_00002
+  rotate: false
+  xy: 1795, 2
+  size: 49, 90
+  orig: 54, 92
+  offset: 2, 1
+  index: -1
+Blue_Fire_FX_00004
+  rotate: true
+  xy: 1139, 199
+  size: 50, 90
+  orig: 55, 92
+  offset: 3, 1
+  index: -1
+Blue_Fire_FX_00006
+  rotate: true
+  xy: 1231, 199
+  size: 50, 90
+  orig: 55, 92
+  offset: 3, 1
+  index: -1
+Blue_Fire_FX_00014
+  rotate: true
+  xy: 1517, 14
+  size: 50, 90
+  orig: 56, 92
+  offset: 3, 1
+  index: -1
+Blue_Fire_FX_00016
+  rotate: false
+  xy: 1970, 234
+  size: 49, 89
+  orig: 55, 92
+  offset: 3, 1
+  index: -1
+Blue_Fire_FX_00018
+  rotate: false
+  xy: 1846, 8
+  size: 48, 90
+  orig: 54, 92
+  offset: 3, 1
+  index: -1
+Blue_Fire_FX_00020
+  rotate: false
+  xy: 1770, 221
+  size: 49, 90
+  orig: 54, 92
+  offset: 2, 1
+  index: -1
+Blue_Fire_FX_00022
+  rotate: true
+  xy: 1609, 14
+  size: 50, 90
+  orig: 54, 92
+  offset: 2, 1
+  index: -1
+Blue_Fire_FX_00024
+  rotate: false
+  xy: 1821, 221
+  size: 49, 90
+  orig: 54, 92
+  offset: 3, 1
+  index: -1
+Blue_Fire_FX_00026
+  rotate: false
+  xy: 1872, 232
+  size: 48, 90
+  orig: 53, 92
+  offset: 2, 1
+  index: -1
+Blue_Fire_FX_00028
+  rotate: false
+  xy: 1922, 232
+  size: 46, 90
+  orig: 51, 92
+  offset: 2, 1
+  index: -1
+Blue_Fire_S_FX_00000
+  rotate: false
+  xy: 376, 186
+  size: 44, 40
+  orig: 48, 45
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00002
+  rotate: true
+  xy: 697, 188
+  size: 43, 42
+  orig: 48, 46
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00004
+  rotate: true
+  xy: 2024, 151
+  size: 43, 42
+  orig: 48, 46
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00006
+  rotate: false
+  xy: 2068, 135
+  size: 43, 42
+  orig: 48, 46
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00008
+  rotate: false
+  xy: 2068, 92
+  size: 43, 41
+  orig: 48, 45
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00010
+  rotate: false
+  xy: 468, 186
+  size: 43, 40
+  orig: 48, 45
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00012
+  rotate: false
+  xy: 2061, 19
+  size: 42, 42
+  orig: 47, 46
+  offset: 2, 1
+  index: -1
+Blue_Fire_S_FX_00014
+  rotate: true
+  xy: 2024, 106
+  size: 43, 42
+  orig: 48, 47
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00016
+  rotate: false
+  xy: 2021, 282
+  size: 45, 42
+  orig: 49, 47
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00018
+  rotate: false
+  xy: 2021, 239
+  size: 45, 41
+  orig: 49, 46
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00020
+  rotate: false
+  xy: 2021, 196
+  size: 45, 41
+  orig: 50, 46
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00022
+  rotate: true
+  xy: 1981, 138
+  size: 45, 41
+  orig: 49, 45
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00024
+  rotate: false
+  xy: 2021, 63
+  size: 43, 41
+  orig: 48, 45
+  offset: 2, 2
+  index: -1
+Blue_Fire_S_FX_00026
+  rotate: false
+  xy: 513, 186
+  size: 43, 40
+  orig: 48, 45
+  offset: 2, 3
+  index: -1
+Blue_Fire_S_FX_00028
+  rotate: false
+  xy: 422, 186
+  size: 44, 40
+  orig: 48, 45
+  offset: 2, 2
+  index: -1
+Dragon_FX
+  rotate: true
+  xy: 1567, 312
+  size: 129, 128
+  orig: 129, 132
+  offset: 0, 1
+  index: -1
+FRZ_EX_Disc
+  rotate: false
+  xy: 933, 189
+  size: 58, 59
+  orig: 60, 61
+  offset: 1, 1
+  index: -1
+FRZ_EX_Muzzle_A
+  rotate: false
+  xy: 1973, 4
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+FRZ_EX_Muzzle_B
+  rotate: true
+  xy: 2021, 18
+  size: 43, 38
+  orig: 45, 40
+  offset: 1, 1
+  index: -1
+FRZ_EX_Muzzle_C
+  rotate: true
+  xy: 993, 189
+  size: 59, 47
+  orig: 61, 49
+  offset: 1, 1
+  index: -1
+FRZ_EX_Wing_A
+  rotate: false
+  xy: 1973, 34
+  size: 46, 77
+  orig: 48, 79
+  offset: 1, 1
+  index: -1
+FRZ_EX_Wing_A2
+  rotate: false
+  xy: 2019, 364
+  size: 46, 77
+  orig: 48, 79
+  offset: 1, 1
+  index: -1
+FRZ_EX_Wing_B
+  rotate: true
+  xy: 741, 187
+  size: 50, 94
+  orig: 52, 96
+  offset: 1, 1
+  index: -1
+FRZ_EX_Wing_B2
+  rotate: true
+  xy: 837, 187
+  size: 50, 94
+  orig: 52, 96
+  offset: 1, 1
+  index: -1
+FRZ_EX_Wing_C_add
+  rotate: true
+  xy: 1701, 3
+  size: 71, 92
+  orig: 77, 98
+  offset: 3, 3
+  index: -1
+FRZ_EX_Wing_C_add2
+  rotate: true
+  xy: 1545, 205
+  size: 63, 84
+  orig: 65, 86
+  offset: 1, 1
+  index: -1
+Spark_FX_00001
+  rotate: false
+  xy: 1042, 196
+  size: 95, 52
+  orig: 106, 57
+  offset: 5, 3
+  index: -1
+Spark_FX_00002
+  rotate: false
+  xy: 1439, 205
+  size: 104, 63
+  orig: 115, 67
+  offset: 6, 2
+  index: -1
+Spark_FX_00004
+  rotate: true
+  xy: 1943, 325
+  size: 116, 74
+  orig: 122, 78
+  offset: 5, 2
+  index: -1
+Spark_FX_00007
+  rotate: true
+  xy: 1896, 3
+  size: 108, 75
+  orig: 121, 80
+  offset: 10, 4
+  index: -1
+Sprite_FX_00011
+  rotate: false
+  xy: 1812, 100
+  size: 80, 119
+  orig: 83, 125
+  offset: 2, 2
+  index: -1
+Sprite_FX_00017
+  rotate: false
+  xy: 1654, 76
+  size: 77, 129
+  orig: 82, 133
+  offset: 2, 3
+  index: -1
+Sprite_FX_00025
+  rotate: false
+  xy: 1894, 113
+  size: 85, 117
+  orig: 89, 124
+  offset: 2, 1
+  index: -1
+Sprite_FX_00028
+  rotate: false
+  xy: 1733, 94
+  size: 77, 125
+  orig: 83, 132
+  offset: 3, 6
+  index: -1
+Sprite_FX_00029
+  rotate: true
+  xy: 1323, 199
+  size: 67, 114
+  orig: 87, 122
+  offset: 18, 5
+  index: -1
+Surround_FX_00000
+  rotate: true
+  xy: 2019, 326
+  size: 36, 48
+  orig: 52, 52
+  offset: 15, 3
+  index: -1
+Surround_FX_00002
+  rotate: false
+  xy: 607, 187
+  size: 41, 44
+  orig: 52, 52
+  offset: 10, 7
+  index: -1
+Surround_FX_00004
+  rotate: false
+  xy: 558, 187
+  size: 47, 39
+  orig: 52, 52
+  offset: 4, 12
+  index: -1
+Surround_FX_00006
+  rotate: false
+  xy: 2069, 294
+  size: 49, 33
+  orig: 52, 52
+  offset: 1, 18
+  index: -1
+Surround_FX_00008
+  rotate: false
+  xy: 1567, 271
+  size: 47, 39
+  orig: 52, 52
+  offset: 1, 12
+  index: -1
+Surround_FX_00010
+  rotate: true
+  xy: 650, 188
+  size: 43, 45
+  orig: 52, 52
+  offset: 1, 6
+  index: -1
+Surround_FX_00012
+  rotate: true
+  xy: 2069, 403
+  size: 38, 49
+  orig: 52, 52
+  offset: 1, 2
+  index: -1
+Surround_FX_00014
+  rotate: true
+  xy: 2068, 222
+  size: 35, 48
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+Surround_FX_00016
+  rotate: true
+  xy: 2068, 179
+  size: 41, 45
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+Surround_FX_00020
+  rotate: false
+  xy: 2069, 329
+  size: 49, 34
+  orig: 52, 52
+  offset: 2, 1
+  index: -1
+Surround_FX_00022
+  rotate: false
+  xy: 2067, 365
+  size: 46, 36
+  orig: 52, 52
+  offset: 5, 1
+  index: -1
+Surround_FX_00026
+  rotate: false
+  xy: 1981, 185
+  size: 38, 47
+  orig: 52, 52
+  offset: 13, 1
+  index: -1
+Surround_FX_00028
+  rotate: true
+  xy: 2068, 259
+  size: 33, 49
+  orig: 52, 52
+  offset: 18, 2
+  index: -1
+Tiger_FX
+  rotate: true
+  xy: 1697, 313
+  size: 128, 125
+  orig: 129, 128
+  offset: 0, 1
+  index: -1
+bianpaolizi/firecrackers0004
+  rotate: true
+  xy: 730, 239
+  size: 202, 144
+  orig: 323, 243
+  offset: 57, 49
+  index: -1
+bianpaolizi/firecrackers0005
+  rotate: true
+  xy: 2, 159
+  size: 282, 196
+  orig: 323, 243
+  offset: 15, 23
+  index: -1
+bianpaolizi/firecrackers0006
+  rotate: true
+  xy: 200, 186
+  size: 255, 174
+  orig: 323, 243
+  offset: 30, 33
+  index: -1
+bianpaolizi/firecrackers0007
+  rotate: false
+  xy: 2, 3
+  size: 224, 154
+  orig: 323, 243
+  offset: 45, 43
+  index: -1
+bianpaolizi/firecrackers0008
+  rotate: true
+  xy: 936, 2
+  size: 185, 129
+  orig: 323, 243
+  offset: 66, 56
+  index: -1
+bianpaolizi/firecrackers0011
+  rotate: false
+  xy: 1824, 324
+  size: 117, 117
+  orig: 197, 197
+  offset: 39, 37
+  index: -1
+huzidan
+  rotate: false
+  xy: 1670, 211
+  size: 47, 99
+  orig: 49, 109
+  offset: 1, 10
+  index: -1
+laohu/Tiger_0002
+  rotate: true
+  xy: 1517, 66
+  size: 137, 135
+  orig: 145, 145
+  offset: 6, 5
+  index: -1
+laohu/Tiger_0003
+  rotate: false
+  xy: 876, 250
+  size: 190, 191
+  orig: 217, 195
+  offset: 14, 0
+  index: -1
+laohu/Tiger_0004
+  rotate: true
+  xy: 376, 228
+  size: 213, 193
+  orig: 216, 194
+  offset: 1, 1
+  index: -1
+laohu/Tiger_0005
+  rotate: false
+  xy: 559, 2
+  size: 206, 183
+  orig: 215, 194
+  offset: 6, 5
+  index: -1
+laohu/Tiger_0006
+  rotate: true
+  xy: 1067, 18
+  size: 176, 151
+  orig: 200, 171
+  offset: 12, 8
+  index: -1
+laohu/Tiger_0007
+  rotate: true
+  xy: 228, 5
+  size: 179, 161
+  orig: 207, 176
+  offset: 13, 6
+  index: -1
+laohu/Tiger_0008
+  rotate: true
+  xy: 767, 2
+  size: 183, 167
+  orig: 215, 182
+  offset: 15, 6
+  index: -1
+laohu/Tiger_0009
+  rotate: true
+  xy: 1068, 251
+  size: 190, 173
+  orig: 212, 188
+  offset: 7, 6
+  index: -1
+lizi/Dragon_0006
+  rotate: true
+  xy: 571, 233
+  size: 208, 157
+  orig: 237, 179
+  offset: 13, 11
+  index: -1
+lizi/Dragon_0008
+  rotate: true
+  xy: 1374, 30
+  size: 167, 141
+  orig: 205, 168
+  offset: 18, 12
+  index: -1
+lizi/Dragon_0009
+  rotate: true
+  xy: 1220, 23
+  size: 174, 152
+  orig: 203, 169
+  offset: 14, 7
+  index: -1
+lizi/Dragon_0010
+  rotate: true
+  xy: 1409, 270
+  size: 171, 156
+  orig: 208, 175
+  offset: 17, 8
+  index: -1
+lizi/Dragon_0011
+  rotate: true
+  xy: 1243, 268
+  size: 173, 164
+  orig: 204, 186
+  offset: 15, 12
+  index: -1
+lizi/Dragon_0012
+  rotate: true
+  xy: 391, 6
+  size: 178, 166
+  orig: 217, 197
+  offset: 20, 13
+  index: -1
+zidan
+  rotate: false
+  xy: 1631, 207
+  size: 37, 103
+  orig: 46, 103
+  offset: 4, 0
+  index: -1

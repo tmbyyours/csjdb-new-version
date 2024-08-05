@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SS_Gun3_02",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "45e015b5-c284-4c06-a476-7f99fff913cf"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "8f05ef4e-e937-46ea-b040-1ea2aab31f13"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "00e18e52-428f-4d2c-9463-ebf33d14c53e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ccb0f9bf-d890-4f86-9a67-04c009caa80a"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "f8959720-6506-4d86-95c1-1bad711521bd"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d4b2fdbd-9abd-4eed-af0f-a1a7e65f2564"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "f1493e2d-0a35-440f-a40b-c24575df0aea"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "5bb85c16-a94f-4c73-9d52-4a7a153dcc3a"
+            }
+          },
+          {
+            "frame": 0.5333333333333333,
+            "value": {
+              "__uuid__": "82bfaccf-e982-4958-bca3-536a7150d1a8"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "cdb313b9-3c4e-4d56-a874-af68a7305e40"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "57ab59f8-240d-424e-94b4-ee107cbfbbf1"
+            }
+          },
+          {
+            "frame": 0.7333333333333333,
+            "value": {
+              "__uuid__": "15ad07b0-ceea-41f1-a1f9-76b421d0a00d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8,
+      "func": "removeSelf",
+      "params": []
+    }
+  ]
+}

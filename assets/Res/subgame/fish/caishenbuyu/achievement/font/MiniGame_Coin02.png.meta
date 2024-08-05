@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "80d515f6-5a5c-44cb-9592-9c1e3099e1e2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "MiniGame_Coin02": {
+      "ver": "1.0.4",
+      "uuid": "4b5163b6-2432-43c4-9464-0628962b7e1b",
+      "rawTextureUuid": "80d515f6-5a5c-44cb-9592-9c1e3099e1e2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11.5,
+      "offsetY": 71.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 233,
+      "height": 113,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

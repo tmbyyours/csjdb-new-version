@@ -1,0 +1,475 @@
+
+lvdagui.png
+size: 2218,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BoubleOutside_05_50
+  rotate: false
+  xy: 2, 501
+  size: 271, 533
+  orig: 273, 544
+  offset: 1, 7
+  index: -1
+GT_Body
+  rotate: true
+  xy: 1825, 871
+  size: 163, 129
+  orig: 165, 131
+  offset: 1, 1
+  index: -1
+GT_Hand
+  rotate: false
+  xy: 862, 183
+  size: 58, 57
+  orig: 60, 59
+  offset: 1, 1
+  index: -1
+GT_Head
+  rotate: true
+  xy: 797, 169
+  size: 71, 63
+  orig: 73, 65
+  offset: 1, 1
+  index: -1
+GT_Leg
+  rotate: false
+  xy: 1552, 795
+  size: 52, 58
+  orig: 54, 60
+  offset: 1, 1
+  index: -1
+GT_Tail
+  rotate: false
+  xy: 635, 657
+  size: 61, 36
+  orig: 63, 38
+  offset: 1, 1
+  index: -1
+LT01
+  rotate: false
+  xy: 1637, 563
+  size: 126, 122
+  orig: 133, 131
+  offset: 3, 7
+  index: -1
+LT02
+  rotate: true
+  xy: 2085, 742
+  size: 129, 130
+  orig: 132, 132
+  offset: 1, 1
+  index: -1
+LT03
+  rotate: false
+  xy: 2061, 102
+  size: 121, 121
+  orig: 126, 124
+  offset: 1, 1
+  index: -1
+LT04
+  rotate: false
+  xy: 1314, 795
+  size: 236, 239
+  orig: 242, 245
+  offset: 3, 3
+  index: -1
+Wind_2Turn_0081
+  rotate: false
+  xy: 635, 695
+  size: 98, 63
+  orig: 102, 65
+  offset: 1, 1
+  index: -1
+Wind_2Turn_0082
+  rotate: false
+  xy: 1665, 144
+  size: 97, 66
+  orig: 102, 68
+  offset: 1, 1
+  index: -1
+Wind_2Turn_0084
+  rotate: false
+  xy: 1472, 316
+  size: 97, 68
+  orig: 102, 70
+  offset: 1, 1
+  index: -1
+Wind_2Turn_0085
+  rotate: false
+  xy: 1571, 316
+  size: 92, 68
+  orig: 97, 70
+  offset: 2, 1
+  index: -1
+Wind_2Turn_0087
+  rotate: false
+  xy: 1962, 179
+  size: 97, 63
+  orig: 101, 65
+  offset: 2, 1
+  index: -1
+Wind_2Turn_0088
+  rotate: false
+  xy: 1764, 146
+  size: 97, 64
+  orig: 102, 66
+  offset: 2, 1
+  index: -1
+Wind_2Turn_0090
+  rotate: true
+  xy: 2055, 256
+  size: 97, 63
+  orig: 102, 65
+  offset: 1, 1
+  index: -1
+Wind_2Turn_0091
+  rotate: false
+  xy: 2120, 290
+  size: 95, 63
+  orig: 100, 65
+  offset: 1, 1
+  index: -1
+Wind_2Turn_0093
+  rotate: true
+  xy: 2008, 7
+  size: 93, 63
+  orig: 98, 65
+  offset: 1, 1
+  index: -1
+Wind_2Turn_0094
+  rotate: false
+  xy: 2120, 225
+  size: 94, 63
+  orig: 100, 65
+  offset: 2, 1
+  index: -1
+Wind_2Turn_0095
+  rotate: false
+  xy: 1863, 165
+  size: 97, 64
+  orig: 101, 66
+  offset: 2, 1
+  index: -1
+Wind_2_0011
+  rotate: true
+  xy: 1696, 870
+  size: 164, 127
+  orig: 166, 129
+  offset: 1, 1
+  index: -1
+Wind_2_0012
+  rotate: true
+  xy: 1763, 705
+  size: 163, 133
+  orig: 165, 135
+  offset: 1, 1
+  index: -1
+Wind_2_0013
+  rotate: false
+  xy: 408, 502
+  size: 161, 140
+  orig: 163, 143
+  offset: 1, 1
+  index: -1
+Wind_2_0014
+  rotate: false
+  xy: 1557, 2
+  size: 163, 136
+  orig: 165, 138
+  offset: 1, 1
+  index: -1
+Wind_2_0015
+  rotate: true
+  xy: 471, 3
+  size: 154, 136
+  orig: 156, 138
+  offset: 1, 1
+  index: -1
+Wind_2_0016
+  rotate: true
+  xy: 2085, 873
+  size: 161, 131
+  orig: 163, 133
+  offset: 1, 1
+  index: -1
+Wind_2_0017
+  rotate: true
+  xy: 1898, 707
+  size: 162, 127
+  orig: 164, 129
+  offset: 1, 1
+  index: -1
+Wind_2_0018
+  rotate: true
+  xy: 1797, 231
+  size: 163, 127
+  orig: 165, 129
+  offset: 1, 1
+  index: -1
+Wind_2_0019
+  rotate: true
+  xy: 1637, 687
+  size: 166, 124
+  orig: 168, 126
+  offset: 1, 1
+  index: -1
+Wind_2_0020
+  rotate: true
+  xy: 1867, 403
+  size: 163, 126
+  orig: 165, 128
+  offset: 1, 1
+  index: -1
+Wind_2_0021
+  rotate: false
+  xy: 2051, 614
+  size: 159, 126
+  orig: 161, 128
+  offset: 1, 1
+  index: -1
+Wind_2_0022
+  rotate: false
+  xy: 2051, 485
+  size: 158, 127
+  orig: 160, 129
+  offset: 1, 1
+  index: -1
+Wind_2_0023
+  rotate: false
+  xy: 2055, 355
+  size: 156, 128
+  orig: 158, 130
+  offset: 1, 1
+  index: -1
+Wind_2_0024
+  rotate: true
+  xy: 1926, 244
+  size: 157, 127
+  orig: 161, 129
+  offset: 2, 1
+  index: -1
+Wind_2_0025
+  rotate: true
+  xy: 1956, 872
+  size: 162, 127
+  orig: 164, 129
+  offset: 1, 1
+  index: -1
+Wind_2_0026
+  rotate: true
+  xy: 1741, 396
+  size: 165, 124
+  orig: 167, 126
+  offset: 1, 1
+  index: -1
+bouble01
+  rotate: true
+  xy: 471, 159
+  size: 341, 324
+  orig: 343, 326
+  offset: 1, 1
+  index: -1
+boubleCircle50_0000
+  rotate: false
+  xy: 1167, 27
+  size: 222, 242
+  orig: 224, 245
+  offset: 1, 2
+  index: -1
+boubleCircle50_0001
+  rotate: false
+  xy: 1021, 271
+  size: 215, 243
+  orig: 241, 245
+  offset: 24, 1
+  index: -1
+boubleCircle50_0002
+  rotate: false
+  xy: 929, 2
+  size: 236, 238
+  orig: 240, 240
+  offset: 3, 1
+  index: -1
+boubleCircle50_0003
+  rotate: true
+  xy: 1238, 308
+  size: 235, 232
+  orig: 238, 234
+  offset: 2, 1
+  index: -1
+boubleCircle50_0004
+  rotate: true
+  xy: 1409, 563
+  size: 230, 226
+  orig: 235, 228
+  offset: 4, 1
+  index: -1
+boubleCircle50_0005
+  rotate: true
+  xy: 748, 502
+  size: 256, 231
+  orig: 281, 234
+  offset: 5, 1
+  index: -1
+boubleCircle50_0006
+  rotate: true
+  xy: 635, 760
+  size: 274, 228
+  orig: 276, 232
+  offset: 1, 3
+  index: -1
+boubleCircle50_0007
+  rotate: true
+  xy: 865, 769
+  size: 265, 228
+  orig: 269, 231
+  offset: 2, 2
+  index: -1
+boubleCircle50_0008
+  rotate: true
+  xy: 797, 242
+  size: 258, 222
+  orig: 263, 224
+  offset: 2, 1
+  index: -1
+boubleCircle50_0009
+  rotate: true
+  xy: 981, 516
+  size: 251, 213
+  orig: 256, 215
+  offset: 1, 1
+  index: -1
+boubleCircle50_0010
+  rotate: true
+  xy: 1095, 789
+  size: 245, 217
+  orig: 259, 219
+  offset: 10, 1
+  index: -1
+boubleCircle50_0011
+  rotate: true
+  xy: 1196, 545
+  size: 242, 211
+  orig: 249, 213
+  offset: 3, 1
+  index: -1
+dot2
+  rotate: true
+  xy: 275, 644
+  size: 390, 358
+  orig: 392, 360
+  offset: 1, 1
+  index: -1
+swirl
+  rotate: true
+  xy: 2, 7
+  size: 492, 467
+  orig: 504, 483
+  offset: 5, 1
+  index: -1
+turborTurnFX_0000
+  rotate: false
+  xy: 1722, 4
+  size: 159, 138
+  orig: 164, 141
+  offset: 1, 1
+  index: -1
+turborTurnFX_0001
+  rotate: false
+  xy: 1391, 2
+  size: 164, 123
+  orig: 166, 131
+  offset: 1, 6
+  index: -1
+turborTurnFX_0002
+  rotate: true
+  xy: 1883, 5
+  size: 158, 123
+  orig: 163, 126
+  offset: 1, 2
+  index: -1
+turborTurnFX_0003
+  rotate: false
+  xy: 1890, 569
+  size: 159, 134
+  orig: 164, 140
+  offset: 1, 3
+  index: -1
+turborTurnFX_0004
+  rotate: true
+  xy: 1526, 140
+  size: 174, 137
+  orig: 179, 144
+  offset: 3, 4
+  index: -1
+turborTurnFX_0005
+  rotate: false
+  xy: 571, 503
+  size: 175, 139
+  orig: 180, 144
+  offset: 2, 3
+  index: -1
+turborTurnFX_0006
+  rotate: true
+  xy: 1552, 855
+  size: 179, 142
+  orig: 184, 146
+  offset: 2, 3
+  index: -1
+turborTurnFX_0007
+  rotate: false
+  xy: 746, 14
+  size: 181, 143
+  orig: 185, 148
+  offset: 1, 4
+  index: -1
+turborTurnFX_0008
+  rotate: true
+  xy: 1665, 212
+  size: 173, 130
+  orig: 179, 135
+  offset: 3, 3
+  index: -1
+turborTurnFX_0009
+  rotate: true
+  xy: 1472, 386
+  size: 175, 131
+  orig: 179, 137
+  offset: 1, 4
+  index: -1
+turborTurnFX_0010
+  rotate: true
+  xy: 1391, 127
+  size: 179, 133
+  orig: 181, 139
+  offset: 1, 3
+  index: -1
+turborTurnFX_0011
+  rotate: true
+  xy: 1605, 387
+  size: 174, 134
+  orig: 181, 139
+  offset: 3, 1
+  index: -1
+turborTurnFX_0012
+  rotate: true
+  xy: 275, 501
+  size: 141, 131
+  orig: 155, 138
+  offset: 11, 5
+  index: -1
+turborTurnFX_0013
+  rotate: false
+  xy: 1765, 568
+  size: 123, 135
+  orig: 131, 141
+  offset: 3, 3
+  index: -1
+turborTurnFX_0014
+  rotate: true
+  xy: 609, 5
+  size: 152, 135
+  orig: 156, 141
+  offset: 1, 3
+  index: -1
